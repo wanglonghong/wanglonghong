@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Dedicated Blockchain and  Web developer having 7+ years experience. I am  WangLongHong from China.
-### I am a full stack programmer who can implement high qualitiy blockchain and web projects
+### I am a full stack developer who can implement high qualitiy blockchain and web projects
 ### My personal goal is to be able to share my knowledge, skills and experience to other people and to provide perfect projects to communities.
 <!--
 **wanglonghong/wanglonghong** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -23,7 +23,7 @@
 
 ### You can contact to me using follows whenever you want 
 
-- [LinkedIn](https://www.linkedin.com/in/wanglonghong/) :blush:ðŸ’»
+- [LinkedIn](https://www.linkedin.com/in/wanglonghong/) :blush:
 - [Telegram](https://t.me/wanglonghong) :smirk:
 - [Twitter](https://twitter.com/wanglonghong2) :smirk:
 
