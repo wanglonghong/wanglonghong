@@ -15,3 +15,5 @@
 - [Telegram](https://t.me/wanglonghong) :smirk:
 - [Twitter](https://twitter.com/wanglonghong2) :smirk:
 
+ ![Wanglonghong's github stats](https://github-readme-stats.vercel.app/api?username=wanglonghong&show_icons=true&theme=radical) 
+ ![Wanglonghong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wanglonghong&show_icons=true&theme=radical) 
